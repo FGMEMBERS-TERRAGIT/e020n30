@@ -2,3 +2,4 @@ OBJECT_SHARED Models/Communications/vordme_1.xml 20.072778 39.443889 1.47 180
 OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml 20.21415 39.4993333 -3.83 89.25
 OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml 20.2211667 39.4986333 -2.47 275.9
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 20.2212833 39.4994833 -3.2 81.26
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 20.209265 39.405171 -2.4 0
