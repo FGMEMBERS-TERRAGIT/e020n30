@@ -5,3 +5,14 @@ OBJECT_SHARED Models/Communications/vordme_1.xml 27.669167 37.253333 4.05 180
 OBJECT_SHARED Models/Airport/marker.ac 27.553889 37.276778 52.45 180
 OBJECT_SHARED Models/Airport/marker.ac 27.637878 37.257664 1.26 180
 OBJECT_SHARED Models/Airport/localizer.xml 27.646431 37.255631 2.8 16.68
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 27.68251 37.25052 4.96 114.623
+OBJECT_SHARED Models/lib/lamp10m.xml 27.67518 37.25163 3.87 107.103
+OBJECT_SHARED Models/lib/lamp10m.xml 27.67613 37.25228 3.69 107.103
+OBJECT_SHARED Models/lib/lamp10m.xml 27.67765 37.25243 3.79 107.103
+OBJECT_SHARED Models/lib/LongRow.ac 27.68425 37.25244 4.25 160.77
+OBJECT_SHARED Models/lib/MedHangar.ac 27.68262 37.25067 4.88 79.26
+OBJECT_SHARED Models/lib/LongRow.ac 27.66855 37.25303 3.08 163.14
+# END dsf2stg
