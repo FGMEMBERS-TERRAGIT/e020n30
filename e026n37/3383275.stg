@@ -429,12 +429,4 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml 26.91786 37.68646 3.64 168.11
 OBJECT_SHARED Models/Trees/billboard-tree.xml 26.91782 37.68652 3.65 321.34
 OBJECT_SHARED Models/Trees/billboard-tree.xml 26.91737 37.68622 3.66 240.25
 OBJECT_SHARED Models/Trees/billboard-tree.xml 26.91735 37.68631 3.67 348.69
-OBJECT_SHARED Models/lib/RampParkingStripe.xml 26.91318 37.69073 5.73 175.5
-OBJECT_SHARED Models/lib/RampParkingStripe.xml 26.91241 37.69078 5.74 175.5
-OBJECT_SHARED Models/lib/RampParkingStripe.xml 26.91162 37.69083 5.66 175.5
-OBJECT_SHARED Models/lib/RampParkingStripe.xml 26.91083 37.69088 5.70 175.5
-OBJECT_SHARED Models/lib/RampParkingStripe.xml 26.91470 37.69062 6.39 112.25
-OBJECT_SHARED Models/lib/RampParkingStripe.xml 26.91549 37.69050 7.07 112.25
-OBJECT_SHARED Models/lib/RampParkingStripe.xml 26.91620 37.69041 7.00 112.25
-OBJECT_SHARED Models/lib/RampParkingStripe.xml 26.91699 37.69028 6.89 112.25
 # END dsf2stg
