@@ -1,5 +1,4 @@
 OBJECT_SHARED Models/Airport/ndb.ac 26.606111 39.049722 6.37 180
-OBJECT_SHARED Models/Communications/vordme_1.xml 26.600544 39.057408 5.61 180
 OBJECT_SHARED Models/Trees/billboard-tree.xml 26.59844556 39.06056528 7.26 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 26.5984873 39.06055924 7.2 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 26.59849154 39.06052091 7.23 292
@@ -22,6 +21,7 @@ OBJECT_SHARED Models/Airport/Vehicle/fire-truck-muc-2.xml 26.59822391 39.0603733
 OBJECT_SHARED Models/Airport/Vehicle/fire-truck-muc-2.xml 26.59827377 39.06039543 7.69 23
 OBJECT_SHARED Models/Transport/van-blue-muc.xml 26.59618677 39.06313092 9.16 90
 OBJECT_SHARED Models/Transport/van-blue-muc.xml 26.59734897 39.0619901 7.96 157.4
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac 26.600544 39.057408 5.61 180
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 26.607074 39.00958 -2.4 0
 OBJECT_SHARED Models/Boundaries/Gen_BlastShield16m.ac 26.59609722 39.06313517 9.31 102.7
 OBJECT_SHARED Models/Boundaries/Gen_BlastShield16m.ac 26.59627428 39.06316599 8.98 80
