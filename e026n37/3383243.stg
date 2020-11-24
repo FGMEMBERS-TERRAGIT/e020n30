@@ -1,3 +1,11 @@
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 26.84912 37.12792 -0.01 50.18
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 26.86341 37.14997 7.59 255.66
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 26.85039 37.12903 -0.01 21.3
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac 26.80259 37.18326 0.00 215.22
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 26.80258 37.18754 9.89 0
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 26.79477 37.18785 -0.00 139.4
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 26.80265 37.18335 -0.00 33.28
+# END dsf2stg

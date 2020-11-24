@@ -10,3 +10,10 @@ OBJECT_SHARED Models/Commercial/tower-glass-dark-blue.ac 27.177043 38.4533146 3.
 OBJECT_SHARED Models/Commercial/tower-grey-black.ac 27.1828787 38.4525408 5.22 0
 OBJECT_SHARED Models/Commercial/tower-h-striped.ac 27.1717731 38.4490319 0.1 0
 OBJECT_SHARED Models/Commercial/tower-square-dark.ac 27.179482 38.448094 1.67 0
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac 27.01322 38.49921 3.43 320.32
+OBJECT_SHARED Models/lib/LongRow.ac 27.01364 38.49967 2.13 320.74
+OBJECT_SHARED Models/lib/LongRow.ac 27.01393 38.49996 2.19 321.6
+# END dsf2stg
